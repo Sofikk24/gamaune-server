@@ -1,0 +1,17 @@
+Flask~=3.1.1
+Flask_SQLAlchemy
+Flask_Migrate
+Flask_CORS
+Flask_Login
+Flask_WTF
+Flask-RESTful
+Flasgger~=0.9.7.1
+Werkzeug~=3.1.3
+marshmallow
+python-dotenv
+gunicorn
+Flask-Uploads
+passlib
+requests
+
+SQLAlchemy~=2.0.41
